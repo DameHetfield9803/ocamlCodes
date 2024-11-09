@@ -1,0 +1,4 @@
+(executable
+ (public_name ocamlCodes)
+ (name main)
+ (libraries ocamlCodes))

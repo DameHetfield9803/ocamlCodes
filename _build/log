@@ -1,0 +1,16 @@
+# dune build ocamlCodes.main
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/damienfoo/.cache/dune/db
+# Workspace root: /Users/damienfoo/Desktop/Codes/ocamlCodes
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /opt/homebrew/bin/ocamlc.opt -config > /var/folders/30/vbv10j0s1kz3vhklvlrd4vxh0000gn/T/dune_73ebe4_output
